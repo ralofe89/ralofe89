@@ -1,21 +1,52 @@
-# 👋 ¡Hola! Soy ralofe89 | Pentester en Formación & Diseñador
+# ¡Hola! Soy ralofe89 👋
 
-Apasionado por la tecnología, la ciberseguridad y la resolución de problemas. Vengo del mundo de la **Cinematografía, el Diseño Gráfico y la Electrónica**, lo que me da una perspectiva analítica y visual única para entender sistemas y documentar hallazgos en seguridad informática. Actualmente enfocado en la transición profesional hacia el **Hacking Ético y Pentesting**.
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
----
-
-### 🛡️ Áreas de Interés y Enfoque
-- **Pentesting:** Enumeración de servicios, explotación de vulnerabilidades y escalada de privilegios.
-- **Seguridad Web / Redes:** Análisis de fallos en infraestructura FTP, SSH y entornos web.
-- **Hardware Hacking:** Conexión entre la electrónica técnica y la seguridad de dispositivos.
-
-### 🧰 Tecnologías y Herramientas
-- **OS/Entornos:** Linux (Kali, Parrot), Bash.
-- **Herramientas:** Nmap, Wireshark, Metasploit, Burp Suites.
-- **Diseño & Multimedia:** Adobe Suite, Dirección de Arte.
+Backend Developer apasionado por la **automatización, la optimización de servidores y la seguridad informática**. Me especializo en el desarrollo de lógica compleja, secuencias de comandos (scripting) y auditorías de seguridad en entornos web y de red.
 
 ---
 
-### 📨 Conectemos
-- 💼 **LinkedIn:** 
-- 🌐 **Portafolio:** 
+### 🛠️ Tecnologías y Herramientas
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>💻 Lenguajes y Scripting</strong><br/><br/>
+      <img src="https://shields.io" /> <br/>
+      <img src="https://shields.io" /> <br/>
+      <img src="https://shields.io" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>🔒 Ciberseguridad y Redes</strong><br/><br/>
+      <img src="https://shields.io" /> <br/>
+      <img src="https://shields.io" /> <br/>
+      <img src="https://shields.io" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>⚙️ Infraestructura y Backend</strong><br/><br/>
+      <img src="https://shields.io" /> <br/>
+      <img src="https://shields.io" /> <br/>
+      <img src="https://shields.io" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Proyectos Destacados
+
+*   **🔒 [Tproot & Tproot-2](https://github.com)**: Scripts y laboratorios enfocados en el análisis y explotación de Backdoors.
+*   **🔍 [Enumeración Web, FTP y SSH](https://github.com)**: Guías y herramientas prácticas para fases de reconocimiento (recon) y vectores de ataque en protocolos comunes.
+*   **🎯 [Obsession](https://github.com)**: Entorno y documentación enfocado en el compromiso de sistemas y escalada de privilegios.
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://vercel.app" alt="Estadísticas de ralofe89" width="48%" />
+  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%" />
+</p>
